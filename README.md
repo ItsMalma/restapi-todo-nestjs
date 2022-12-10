@@ -1,4 +1,4 @@
-# Belajar Express
+# RESTApi ToDo NestJS
 
 Ini adalah repositori yang saya gunakan untuk menempatkan aplikasi todo berbasis REST Api dengan menggunakan NestJS.
 
